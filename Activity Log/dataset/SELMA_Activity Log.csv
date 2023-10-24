@@ -1,0 +1,245 @@
+Date,Time,Activity Description,How I feel,Duration (hours),Value
+10/10/2023,0:00,Sleep,Tired,7.5,High
+10/10/2023,7:30,Class,Tired,2.5,High
+10/10/2023,10:00,Make assignment (ReactJS Code),Excited,0.5,Medium
+10/10/2023,10:30,Class,So so ,1.5,High
+10/10/2023,12:00,Lunch,Happy,0.5,Medium
+10/10/2023,12:30,Make assignment (ReactJS Code),Mehh,2,Medium
+10/10/2023,14:30,Prepare for school (Take a bath etc),Refreshed,0.67,High
+10/10/2023,15:10,Travel to School,Annoyed,0.25,High
+10/10/2023,15:25,Walk to Class,Panting,0.08,High
+10/10/2023,15:30,Class,Normal,2.5,High
+10/10/2023,18:00,Walk to gate,Relaxed,0.33,None
+10/10/2023,18:20,Wait for transportation,Exhausted,0.33,None
+10/10/2023,18:40,Travel to Home,Annoyed,0.33,None
+10/10/2023,19:00,Dinner,Happy,0.5,High
+10/10/2023,19:30,Org Work (Reply emails etc.),Tired,1,Low
+10/10/2023,20:30,Assignment (Continue ReactJS Activity),Frustrated,0.5,High
+10/10/2023,21:00,Phone,Chill,0.67,None
+10/10/2023,21:40,Assignment (Continue ReactJS Activity),Frustrated,0.5,High
+10/10/2023,22:10,Sleep,Stressed,10.83,High
+11/10/2023,9:00,Prepare for school (Take a bath etc),Tired,0.5,Medium
+11/10/2023,9:30,Breakfast,Happy,0.25,High
+11/10/2023,9:45,Travel to School,Panicking,0.25,Medium
+11/10/2023,10:00,Walk to Room,Panting cause I have to walk up to 7th floor because the elevator is under renovation,0.17,Medium
+11/10/2023,10:10,Org Work (SSG COMELEC Meeting),Excited,1.83,Medium
+11/10/2023,12:00,Phone,Siesta,1,None
+11/10/2023,13:00,Buy coffee,Overjoyed,0.5,None
+11/10/2023,13:30,Lunch,Stuffed,0.33,High
+11/10/2023,13:50,Wait for transportation,Tired,0.33,Low
+11/10/2023,14:10,Travel to Home,Tired,0.33,Low
+11/10/2023,14:30,Phone,Happy,1,None
+11/10/2023,15:30,Assignment (Continue ReactJS Activity),Stressed,3,High
+11/10/2023,18:30,Phone,Happy,0.5,None
+11/10/2023,19:00,Dinner,Full,0.5,High
+11/10/2023,19:30,Assignment (Data Analytics Regression Activity),Mehh,1.72,High
+11/10/2023,21:13,Phone,Happy,1.4,None
+11/10/2023,22:37,Assignment (Continue ReactJS Activity),Happy,0.88,High
+11/10/2023,23:30,Watch Youtube Videos,Stressed,0.62,None
+12/10/2023,0:07,Assignment (Continue ReactJS Activity),Stressed,0.38,High
+12/10/2023,12:30,Phone,Happy,0.5,None
+12/10/2023,1:00,Sleep,Chill,6.5,High
+12/10/2023,7:30,Class,Normal,1.5,High
+12/10/2023,9:00,Assignment (Continue ReactJS Activity),Frustrated,1.5,High
+12/10/2023,10:30,Class,Normal,1.5,High
+12/10/2023,12:00,Phone,Chill,0.5,None
+12/10/2023,12:30,Babysit,Happy,1.5,Medium
+12/10/2023,14:00,Prepare for school (Take a bath etc),Refreshed,0.5,Medium
+12/10/2023,14:30,Lunch,Angry,0.17,Medium
+12/10/2023,14:40,Travel to School,Angry,0.33,High
+12/10/2023,15:00,Walk to consultation,Angry,0.17,High
+12/10/2023,15:10,Snacks,Happy,0.33,None
+12/10/2023,15:30,Class,Normal,2.5,High
+12/10/2023,18:00,Walk to gate,Relaxed,0.17,None
+12/10/2023,18:10,Snacks,Happy,0.17,None
+12/10/2023,18:20,Wait for transportation,Annoyed,0.28,None
+12/10/2023,18:37,Travel to Home,Normal,0.47,None
+12/10/2023,19:05,Aid my mother,Panicked,0.52,High
+12/10/2023,19:36,Dinner,Angry,0.4,Medium
+12/10/2023,20:00,Chores (Clean the dishes),Relaxed,0.33,Low
+12/10/2023,20:20,Assignment (Data Analytics),Stressed,0.5,Low
+12/10/2023,20:50,Phone,Chill,0.33,None
+12/10/2023,21:10,Assigment (AppDev),Focused,0.97,High
+12/10/2023,22:08,Assigment (PM),Focused,1.02,High
+12/10/2023,23:59,Watch Youtube Videos,Refreshed,0.4,None
+12/10/2023,0:23,Sleep,Refreshed,7.62,High
+13/10/2023,8:00,Assignment (Data Analytics),Confused,2,High
+13/10/2023,10:00,Breakfast,Happy,0.28,Medium
+13/10/2023,10:17,Sleep,Stressed,2.22,Low
+13/10/2023,12:30,Prepare for school (Take a bath etc),Panic,0.17,Medium
+13/10/2023,12:40,Travel to school,Panic,0.25,Medium
+13/10/2023,12:55,Walk to room,Panic,0.08,Medium
+13/10/2023,13:00,Class,Normal,2,High
+13/10/2023,15:00,Assignment (Consultation for Techno) ,Nervous,0.72,High
+13/10/2023,15:43,Lunch,Happy,0.37,Medium
+13/10/2023,16:05,Phone,Chill,1.2,None
+13/10/2023,17:17,Wait for transportation ,Sick,0.27,Low
+13/10/2023,17:33,Travel to home,Sick,0.4,Low
+13/10/2023,17:57,Sleep,Sick,2.1,Low
+13/10/2023,20:03,Dinner,Sick,0.4,Medium
+13/10/2023,20:27,Sleep,Sick,10.82,High
+14/10/2023,10:00,Class,Normal,1.05,High
+14/10/2023,11:03,Lunch,Happy,0.37,High
+14/10/2023,11:25,Assignment (Data Analytics) ,Stressed,3.7,Medium
+14/10/2023,15:07,Travel,Stressed,2.22,None
+14/10/2023,17:20,Family Time ,Relaxed,1.78,Medium
+14/10/2023,19:07,Dinner ,Full,0.38,Medium
+14/10/2023,19:30,Family Time,Happy,1.5,Low
+14/10/2023,21:00,Assignment (Data Analytics),Stressed,2.12,Low
+14/10/2023,23:07,Phone ,Chill,1,None
+15/10/2023,1:09,Sleep,Refreshed,7.85,High
+15/10/2023,9:00,Breakfast,Full,0.45,High
+15/10/2023,9:27,Study,Crammed,1.55,High
+15/10/2023,11:00,Lunch,Happy,0.45,Medium
+15/10/2023,11:27,Study ,Crammed,4.05,High
+15/10/2023,15:30,Phone,Chill,1,None
+15/10/2023,16:30,Family Time,Happy,2,Low
+15/10/2023,18:30,Dinner,Full,0.6,Medium
+15/10/2023,19:06,Family Time,Happy,1.9,Low
+15/10/2023,21:00,Study,Relaxed,2,High
+15/10/2023,23:00,Phone,Chill,1,None
+16/10/2023,0:00,Sleep,Refreshed,4.5,High
+16/10/2023,4:30,Prepare for school,Panic,0.5,Medium
+16/10/2023,5:00,Breakfast,Unsatisfied,0.28,Medium
+16/10/2023,5:17,Travel,Sick,1.93,Low
+16/10/2023,7:13,Walk to room,Nervous,0.28,Low
+16/10/2023,7:30,Class,Nervous,2.5,High
+16/10/2023,10:00,Lunch,Full,1.5,Medium
+16/10/2023,11:30,Study,Crammed,1.5,High
+16/10/2023,13:00,Class,Satisfied,1.5,High
+16/10/2023,14:30,Study,Unsure,0.5,High
+16/10/2023,15:00,Class,Happy,0.78,High
+16/10/2023,15:47,Talk with Friends,Happy,0.38,None
+16/10/2023,16:10,Walk to gate,Nervous,0.22,None
+16/10/2023,16:23,Travel home,Nervous,0.62,Medium
+16/10/2023,17:00,Sleep,Stressed,3.08,High
+16/10/2023,20:05,Dinner,Stressed,0.42,Medium
+16/10/2023,20:30,Study,Productive,1.25,High
+16/10/2023,21:45,Sleep,Refreshed,8.75,High
+17/10/2023,6:30,Breakfast,Full,0.43,Medium
+17/10/2023,6:56,Study,Stressed,0.57,High
+17/10/2023,7:30,Class,Nervous,2,High
+17/10/2023,9:30,Phone,Chill ,1,None
+17/10/2023,10:30,Class,Nervous,1.5,High
+17/10/2023,12:00,Travel to home,Normal,0.5,None
+17/10/2023,12:30,Study,Productive,1.58,High
+17/10/2023,14:05,Travel,Mehh,0.13,None
+17/10/2023,14:13,Family Time,Happy,2.3,Low
+17/10/2023,16:31,Travel,Annoyed,0.98,None
+17/10/2023,17:30,Phone ,Chill,0.25,None
+17/10/2023,17:45,Family Time,Happy,0.75,Medium
+17/10/2023,18:30,Dinner ,Satisfied,0.5,Medium
+17/10/2023,19:00,Family Time,Great,2.5,Medium
+17/10/2023,21:30,Travel,Annoyed,1.02,None
+17/10/2023,22:31,Phone,Angry,0.67,None
+17/10/2023,23:11,Sleep,Refreshed,8.49,Medium
+18/10/2023,8:00,Prepare,Chill,0.5,None
+18/10/2023,8:30,Breakfast,Chill,0.25,None
+18/10/2023,8:45,Travel,Chill,0.25,None
+18/10/2023,9:00,Watch Movie,Happy,3,None
+18/10/2023,12:00,Lunch,Happy,0.5,None
+18/10/2023,12:30,Phone,Happy,0.5,None
+18/10/2023,13:00,Watch Movie,Happy,2,None
+18/10/2023,15:00,Phone,Happy,2,None
+18/10/2023,17:00,Travel home,Happy,0.5,None
+18/10/2023,17:30,Sleep,Happy,2.5,Medium
+18/10/2023,20:00,Dinner,Full,0.5,Medium
+18/10/2023,20:30,Study,Productive,1.5,High
+18/10/2023,22:00,Phone,Mehh,1,None
+18/10/2023,23:00,Study,Productive,4,High
+19/10/2023,2:00,Phone,Chill,0.5,None
+19/10/2023,2:30,Study,Chill,0.5,High
+19/10/2023,3:00,Sleep,Refreshed,4.5,High
+19/10/2023,7:30,Breakfast,Full,0.5,High
+19/10/2023,8:00,Study,Stressed,2,High
+19/10/2023,10:00,Class,Stressed,1.78,High
+19/10/2023,11:47,Lunch,Stressed,0.22,Low
+19/10/2023,12:00,Study,Stressed,3,High
+19/10/2023,15:00,Prepare for school,Normal,0.25,None
+19/10/2023,15:15,Travel to school,Normal,0.17,None
+19/10/2023,15:25,Walk to room,Normal,0.08,None
+19/10/2023,15:30,Class,Satisfied,2.5,High
+19/10/2023,18:00,Walk ,Relaxed,1.22,None
+19/10/2023,19:13,Dinner,Happy,1.12,High
+19/10/2023,20:20,Study,Productive,1.67,High
+19/10/2023,22:00,Sleep,Refreshed,8.5,High
+20/10/2023,6:30,Prepare for school,Nervous,0.28,Low
+20/10/2023,6:47,Breakfast,Nervous,0.38,Medium
+20/10/2023,7:10,Travel to school,Nervous,0.17,None
+20/10/2023,7:20,Walk to room,Nervous,0.17,None
+20/10/2023,7:30,Study,Nervous,1,High
+20/10/2023,8:30,Class,Out of breath,1,High
+20/10/2023,9:30,Interact with friends,Refreshed,0.5,None
+20/10/2023,10:00,Process documents,Hot,0.67,None
+20/10/2023,10:40,Travel,Hot,0.62,None
+20/10/2023,11:17,Process documents,Hot,0.2,None
+20/10/2023,11:29,Walk,Refreshed,0.57,None
+20/10/2023,12:03,Phone,Chill,1.07,None
+20/10/2023,13:07,Travel to home,Angry,0.32,None
+20/10/2023,13:26,Lunch,Full,0.32,Medium
+20/10/2023,13:45,Sleep,Refreshed,2.25,Low
+20/10/2023,16:00,Family Time,Happy,2.38,Medium
+20/10/2023,18:23,Dinner,Happy,0.37,Medium
+20/10/2023,18:45,Phone,Chill,2.3,None
+20/10/2023,21:03,Org Work (Reply emails etc.),Mehh,1.03,Medium
+20/10/2023,22:05,Phone,Chill,0.67,None
+20/10/2023,22:45,Watch movie,Happy,1.58,None
+21/10/2023,0:20,Sleep,Refreshed,10.17,Medium
+21/10/2023,10:30,Breakfast,Full,0.5,Medium
+21/10/2023,11:00,Phone,Chill,0.33,None
+21/10/2023,11:20,Study,Stressed,1.17,High
+21/10/2023,12:30,Assignment,Happy,1.88,Medium
+21/10/2023,14:23,Travel,Annoyed,1.95,None
+21/10/2023,16:20,Family Time,Happy,1.17,Low
+21/10/2023,17:30,Dinner,Full,1,Medium
+21/10/2023,18:30,Study,Stressed,1.5,High
+21/10/2023,20:00,Phone,Chill,0.5,None
+21/10/2023,20:30,Study,Stressed,1.67,High
+21/10/2023,22:10,Sleep,Refreshed,9.83,Low
+22/10/2023,8:04,Breakfast,Full,0.43,High
+22/10/2023,8:30,Study,Normal,1.5,High
+22/10/2023,10:00,Help with the chores,Relaxed,1.5,None
+22/10/2023,11:30,Study,Normal,1.5,High
+22/10/2023,13:00,Lunch,Full,2.5,Medium
+22/10/2023,15:30,Sleep,Refreshed,1.83,None
+22/10/2023,17:20,Study,Stressed,3.67,High
+22/10/2023,21:00,Dinner,Full,0.5,Medium
+22/10/2023,21:30,Family Time,Happy,0.5,Low
+22/10/2023,22:00,Watch Movie,Satisfied,1.33,None
+22/10/2023,23:20,Study,Productive,1.25,High
+23/10/2023,0:35,Sleep,Refreshed,4.17,High
+23/10/2023,4:45,Prepare,Panic,0.42,Medium
+23/10/2023,5:10,Breakfast,Panic,0.22,Medium
+23/10/2023,5:23,Travel,Annoyed,1.83,Medium
+23/10/2023,7:13,Talk with Friends,Happy,0.62,None
+23/10/2023,7:50,Class,Stressed,2.17,High
+23/10/2023,10:00,Lunch,Full,1.5,Medium
+23/10/2023,11:30,Study,Crammed,1.5,High
+23/10/2023,13:00,Class,Satisfied,1.5,High
+23/10/2023,14:30,Study,Unsure,0.5,High
+23/10/2023,15:00,Class,Happy,0.78,High
+23/10/2023,15:47,Talk with Friends,Happy,0.38,None
+23/10/2023,16:10,Walk to gate,Nervous,0.22,None
+23/10/2023,16:23,Travel home,Nervous,0.62,Medium
+23/10/2023,17:00,Sleep,Stressed,3.08,High
+23/10/2023,20:05,Dinner,Stressed,0.42,Medium
+23/10/2023,20:30,Study,Productive,1.25,High
+23/10/2023,21:45,Sleep,Refreshed,9.75,High
+24/10/2023,7:30,Class,Tired,2.5,High
+24/10/2023,10:00,Make assignment (ReactJS Code),Excited,0.5,Medium
+24/10/2023,10:30,Class,So so ,1.5,High
+24/10/2023,12:00,Lunch,Happy,0.5,Medium
+24/10/2023,12:30,Make assignment (ReactJS Code),Mehh,2,Medium
+24/10/2023,14:30,Prepare for school (Take a bath etc),Refreshed,0.67,High
+24/10/2023,15:10,Travel to School,Annoyed,0.25,High
+24/10/2023,15:25,Walk to Class,Panting,0.08,High
+24/10/2023,15:30,Class,Normal,2.5,High
+24/10/2023,18:00,Walk to gate,Relaxed,0.33,None
+24/10/2023,18:20,Wait for transportation,Exhausted,0.33,None
+24/10/2023,18:40,Travel to Home,Annoyed,0.33,None
+24/10/2023,19:00,Dinner,Happy,0.5,High
+24/10/2023,19:30,Org Work (Reply emails etc.),Tired,1,Low
+24/10/2023,20:30,Assignment (Continue ReactJS Activity),Frustrated,0.5,High
+24/10/2023,21:00,Phone,Chill,0.67,None
+24/10/2023,21:40,Assignment (Continue ReactJS Activity),Frustrated,0.5,High
+24/10/2023,22:10,Sleep,Stressed,10.83,High
